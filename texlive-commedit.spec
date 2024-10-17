@@ -3,7 +3,7 @@ Version:	50116
 Release:	2
 Summary:	Commented editions with LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/commedit
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/commedit
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/commedit.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/commedit.doc.r%{version}.tar.xz
